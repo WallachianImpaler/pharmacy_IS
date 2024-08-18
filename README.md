@@ -42,4 +42,4 @@
 
 ## 2.1. Схема ER-модели
 
-![pharmacyER](https://github.com/user-attachments/assets/7f451a64-7c7f-4e82-ad79-9238b3b79592)
+![pharmacyER](https://github.com/user-attachments/assets/d27ce89a-53a9-420d-a3c1-3aecdbe946b5)
